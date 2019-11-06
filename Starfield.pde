@@ -12,7 +12,7 @@ void setup()
 }
 void draw()
 {
-  fill(0,0,0,100);
+  fill(0,0,0,90);
     rect(0, 0, 510, 510);
   for (int x=0; x<s.length; x++)
   {
